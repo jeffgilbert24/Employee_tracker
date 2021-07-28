@@ -10,7 +10,7 @@ CREATE TABLE department(
 );
 
 --Add Role Table--
-CREATE TABLE role_tb(
+CREATE TABLE role(
     id INT PRIMARY KEY,
     title VARCHAR(30),
     salary DECIMAL,
